@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 For our complete submisisson, headover to - https://github.com/swatig23/myntra_ILLUMINATI
-This is the first component of our project - *Crowd Detection and People Conter (CDPC)*
+This is the first component of our project - *Crowd Detection and People Counter (CDPC)*
 
 Before going further please see the demo - ____Insert Video____
 
