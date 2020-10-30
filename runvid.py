@@ -1,0 +1,2 @@
+import os
+os.system('python people_counter.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/live_cctv.mp4 --output output/output_01.avi')
