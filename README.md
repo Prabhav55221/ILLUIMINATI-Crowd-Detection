@@ -5,7 +5,7 @@
 For our complete submission, headover to - https://github.com/swatig23/myntra_ILLUMINATI
 This is the first component of our project - *Crowd Detection and People Counter (CDPC)*
 
-Before going further please see the demo - ____Insert Video____
+Before going further please see the demo - [Demo](https://photos.app.goo.gl/MZWZxMSfPf9UQooGA)
 
 # Features!
 
